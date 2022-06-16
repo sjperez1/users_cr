@@ -1,0 +1,2 @@
+Path for users schema
+"C:\Users\Sarah\Desktop\CodingDojo\python\mysql\erd\users\users_schema.mwb"
